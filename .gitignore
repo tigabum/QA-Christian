@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+/frontend/QAChrist/node_modules/
+/backend/node_modules/
+
+# React Native specific
+/frontend/QAChrist/ios/Pods/
+/frontend/QAChrist/android/app/build/
+.bundle/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# OS generated
+.DS_Store
